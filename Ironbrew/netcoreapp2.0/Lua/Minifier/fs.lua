@@ -1,6 +1,6 @@
 ---------
 -- Utility functions for operations on a file system.
---
+-
 -- **Note: This module is not part of public API!**
 ----
 local fmt = string.format
